@@ -1,0 +1,75 @@
+[
+ 
+    {
+      "image": "   https://ibb.co/vzmCfZ8",
+      "danceName": "Hip Hop",
+      "instructorName": "John Smith",
+      "availableSeats": 15,
+      "price": 250,
+      "currentStudent": 35,
+      "totalSeat":50
+    },
+    {
+      "image": " https://ibb.co/NVX1qcz",
+      "danceName": "Ballet",
+      "instructorName": "Emily Johnson",
+      "availableSeats": 10,
+      "price": 300,
+      "currentStudent": 40,
+      "totalSeat":50
+    },
+    {
+      "image": "  https://ibb.co/S5q1YrL",
+      "danceName": "Salsa",
+      "instructorName": "Carlos Rodriguez",
+      "availableSeats": 12,
+      "price": 200,
+      "totalSeat":50,
+      "currentStudent": 38
+    },
+    {
+      "image": " https://ibb.co/bPFQHfY",
+      "danceName": "Contemporary",
+      "instructorName": "Sarah Anderson",
+      "availableSeats": 30,
+      "price": 350,
+      "currentStudent": 20
+    },
+    {
+      "image": " https://ibb.co/NVX1qcz",
+      "danceName": "Tap Dance",
+      "instructorName": "Michael Williams",
+      "availableSeats": 30,
+      "totalSeat":50,
+      "price": 250,
+      "currentStudent": 20
+    },
+    {
+      "image":"https://ibb.co/vzmCfZ8",
+      "danceName": "Jazz Funk",
+      "instructorName": "Olivia Thompson",
+      "availableSeats": 40,
+      "totalSeat":50,
+      "price": 300,
+      "currentStudent": 10
+    },
+    {
+      "image": "  https://ibb.co/S5q1YrL",
+      "danceName": "Flamenco",
+      "instructorName": "Antonio Ramirez",
+      "availableSeats": 15,
+      "price": 480,
+      "totalSeat":50,
+      "currentStudent": 35
+    },
+    {
+      "image":  "https://ibb.co/bPFQHfY",
+      "danceName": "Breakdance",
+      "instructorName": "David Lee",
+      "availableSeats": 25,
+      "price": 350,
+      "totalSeat":50,
+      "currentStudent": 25
+    }
+  ]
+  
